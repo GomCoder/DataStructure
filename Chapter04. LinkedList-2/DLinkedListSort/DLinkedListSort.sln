@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DLinkedListSort", "DLinkedListSort\DLinkedListSort.vcxproj", "{540D397D-AF0B-4F27-AA0D-53B000AE292C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{540D397D-AF0B-4F27-AA0D-53B000AE292C}.Debug|x64.ActiveCfg = Debug|x64
+		{540D397D-AF0B-4F27-AA0D-53B000AE292C}.Debug|x64.Build.0 = Debug|x64
+		{540D397D-AF0B-4F27-AA0D-53B000AE292C}.Debug|x86.ActiveCfg = Debug|Win32
+		{540D397D-AF0B-4F27-AA0D-53B000AE292C}.Debug|x86.Build.0 = Debug|Win32
+		{540D397D-AF0B-4F27-AA0D-53B000AE292C}.Release|x64.ActiveCfg = Release|x64
+		{540D397D-AF0B-4F27-AA0D-53B000AE292C}.Release|x64.Build.0 = Release|x64
+		{540D397D-AF0B-4F27-AA0D-53B000AE292C}.Release|x86.ActiveCfg = Release|Win32
+		{540D397D-AF0B-4F27-AA0D-53B000AE292C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BC248A6-E010-4620-95CA-33A4D23AF3E0}
+	EndGlobalSection
+EndGlobal
